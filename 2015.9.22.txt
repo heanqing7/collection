@@ -1,0 +1,6 @@
+matplotlib 如何安装
+	matplotlib numpy pyparsing dateutil scipy
+whl文件如何安装
+	用pip install xxx.whl  pip文件在python目录下的scripts中
+six缺失
+	在scipy中拷贝出来。放到sitepackage下
